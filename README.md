@@ -1,4 +1,4 @@
-***Solutions*** to **SQLBolt** interactive exercises
+***Solutions*** to **SQLBolt** interactive exercises.
 
 ### 📌 [https://sqlbolt.com/](https://sqlbolt.com/)
 
